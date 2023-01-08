@@ -58,7 +58,7 @@ function chatStripe(isAi, value, uniqueId) {
                 <div class="message" id=${uniqueId}>${value}</div>
             </div>
         </div>
-    `echo "# NLP" >> README.md
+    `
     )
 }
 
